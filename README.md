@@ -193,7 +193,7 @@ Original author: `YourNameHere`
 Feedback and pull requests are welcome.
 
 ### 日本語
-作者: `YourNameHere`  
+作者: `EchoChamber`  
 不具合報告やプルリクエストを歓迎します。
 
 ---
